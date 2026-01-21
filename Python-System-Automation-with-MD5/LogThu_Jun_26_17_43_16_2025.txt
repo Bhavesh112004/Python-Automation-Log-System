@@ -1,0 +1,51 @@
+------------------------------------------------------------
+This is the log file for the finding duplicate script
+Directory scanned: C:\Users\ahire\OneDrive\Desktop\Coding_Pract\Assignment_20\Demo
+Created at: Thu Jun 26 17:43:16 2025
+------------------------------------------------------------
+
+File: C:\Users\ahire\OneDrive\Desktop\Coding_Pract\Assignment_20\Demo\Demo1\X.txt - Copy (2).txt
+Checksum: cf5456524e2138de1ebe2f7f227ad613
+
+File: C:\Users\ahire\OneDrive\Desktop\Coding_Pract\Assignment_20\Demo\Demo1\X.txt - Copy.txt
+Checksum: cf5456524e2138de1ebe2f7f227ad613
+
+File: C:\Users\ahire\OneDrive\Desktop\Coding_Pract\Assignment_20\Demo\Demo1\X.txt.txt
+Checksum: cf5456524e2138de1ebe2f7f227ad613
+
+File: C:\Users\ahire\OneDrive\Desktop\Coding_Pract\Assignment_20\Demo\Demo1\Y.txt.txt
+Checksum: 32730be80f689bbc8d987e08ff69daac
+
+File: C:\Users\ahire\OneDrive\Desktop\Coding_Pract\Assignment_20\Demo\Demo2\P.txt - Copy.txt
+Checksum: 557a6521c4afe5c61d746797f8a85f30
+
+File: C:\Users\ahire\OneDrive\Desktop\Coding_Pract\Assignment_20\Demo\Demo2\P.txt.txt
+Checksum: 557a6521c4afe5c61d746797f8a85f30
+
+File: C:\Users\ahire\OneDrive\Desktop\Coding_Pract\Assignment_20\Demo\Demo2\Q.txt - Copy.txt
+Checksum: d728097f43826e29addfd847c282fad2
+
+File: C:\Users\ahire\OneDrive\Desktop\Coding_Pract\Assignment_20\Demo\Demo2\Q.txt.txt
+Checksum: d728097f43826e29addfd847c282fad2
+
+File: C:\Users\ahire\OneDrive\Desktop\Coding_Pract\Assignment_20\Demo\Demo3\A.txt - Copy (2).txt
+Checksum: f9239489591a9b7ecf6b3aabc4bc58e7
+
+File: C:\Users\ahire\OneDrive\Desktop\Coding_Pract\Assignment_20\Demo\Demo3\A.txt - Copy.txt
+Checksum: f9239489591a9b7ecf6b3aabc4bc58e7
+
+File: C:\Users\ahire\OneDrive\Desktop\Coding_Pract\Assignment_20\Demo\Demo3\A.txt.txt
+Checksum: f9239489591a9b7ecf6b3aabc4bc58e7
+
+File: C:\Users\ahire\OneDrive\Desktop\Coding_Pract\Assignment_20\Demo\Demo3\B.txt - Copy (2).txt
+Checksum: 258749fac47c7726a92403e65a646f27
+
+File: C:\Users\ahire\OneDrive\Desktop\Coding_Pract\Assignment_20\Demo\Demo3\B.txt - Copy.txt
+Checksum: 258749fac47c7726a92403e65a646f27
+
+File: C:\Users\ahire\OneDrive\Desktop\Coding_Pract\Assignment_20\Demo\Demo3\B.txt.txt
+Checksum: 258749fac47c7726a92403e65a646f27
+
+------------------------------------------------------------
+Duplicate Files:
+------------------------------------------------------------
